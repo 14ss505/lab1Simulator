@@ -1,0 +1,5 @@
+we have two things to do. 
+1.write something about new coffee in this file
+2.write something about new size in this file
+Please view this task as the real lab and show me how we cooporate with git.
+following is your word:
