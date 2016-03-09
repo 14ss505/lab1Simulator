@@ -3,7 +3,7 @@ we have two things to do.
 2.write something about new size in this file
 Please view this task as the real lab and show me how we cooporate with git.
 following is your word:
-[mmyuan third change]
+[mmyuan second change]
 new size:very grant
 another new size:size2
 Hello, This is YeatsMar. Call Chow
