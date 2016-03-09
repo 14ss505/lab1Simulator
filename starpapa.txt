@@ -4,6 +4,7 @@ we have two things to do.
 Please view this task as the real lab and show me how we cooporate with git.
 following is your word:
 [mmyuan change]
+Hello, This is YeatsMar. Call Chow
 new size:very grant
 another new size:size2
 Hello, This is YeatsMar. Call Chow
